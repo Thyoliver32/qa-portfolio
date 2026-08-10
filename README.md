@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu portfólio de Garantia de Qualidade de Software. Aqui aprese
 
 ## 👤 Sobre Mim
 
-- **Nome:** [Seu Nome Completo]
+- **Nome:** thiago de oliveira
 - **Objetivo:** Analista de QA / QA Tester
 - **LinkedIn:** [Link do Seu LinkedIn]
 - **E-mail:** [Seu E-mail de Contato]
