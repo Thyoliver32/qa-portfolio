@@ -8,8 +8,8 @@ Bem-vindo(a) ao meu portfólio de Garantia de Qualidade de Software. Aqui aprese
 
 - **Nome:** thiago de oliveira
 - **Objetivo:** Analista de QA / QA Tester
-- **LinkedIn:** [Link do Seu LinkedIn]
-- **E-mail:** [Seu E-mail de Contato]
+- **LinkedIn:** [www.linkedin.com/in/thiago-oliveira-6473b722a]
+- **E-mail:** [floydoliver2015@gmail.com]
 
 ---
 
